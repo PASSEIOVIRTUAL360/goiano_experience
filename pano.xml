@@ -11,8 +11,8 @@
     </input>
     <view pannorth="407.189" fovmode="2">
       <start fov="120" projection="4" pan="-2.16" tilt="-2.21"/>
-      <flyin fov="338.9" projection="9" pan="10.72" tilt="-90"/>
-      <min pan="0" tilt="-90" fovpixel="2"/>
+      <flyin fov="360" projection="9" pan="180" tilt="-100"/>
+      <min fov="5" pan="0" tilt="-90"/>
       <max fov="140" pan="360" fovfisheye="360" tilt="90" scaletofit="1" fovstereographic="330"/>
     </view>
     <userdata longitude="-51.33374974" description="Goiano Experience Restaurante em Ilha solteira" streetviewlink="https://www.google.com/maps/@-20.4198718,-51.3337497,3a,75y,49.35h,90t/data=!3m4!1e1!3m2!1sAF1QipPHntNlnZpeoG-1DLFKYKk460x33tdHPkuRqaoL!2e10" comment="Goiano Experience Restaurante em Ilha solteira" copyright="Goiano Experience Restaurante em Ilha solteira" nodeid="node1" heading="407.189" tags="GIGANTE" title="Goiano Experience Restaurante em Ilha solteira" info="Goiano Experience Restaurante em Ilha solteira" altitude="370.60" datetime="01/08/2024 11:25" customnodeid="" source="Goiano Experience Restaurante em Ilha solteira" latitude="-20.41987149" author="Goiano Experience Restaurante em Ilha solteira"/>
@@ -28,7 +28,7 @@
       <lensflare alpha="80.000" blinding="50.000" id="Lensflare01" type="2" pan="-328.750" tilt="55.780" color="0xffffff"/>
     </media>
     <transition blendtime="1" type="mesh" zoomafterinfov="140" zoomafteroutfov="40" zoomout="0" zoomfov="40" zoomin="7" delay="none" blendcolor="0x000000" zoomoutpause="1" softedge="0" zoomspeed="2" enabled="1"/>
-    <flyintransition enabled="1" speed="3.00"/>
+    <flyintransition enabled="1" speed="2.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control lockedkeyboard="0" hideabout="0" lockedwheel="0" invertcontrol="1" dblclickfullscreen="0" invertwheel="0" zoomcentercursor="1" contextfullscreen="1" rubberband="0" lockedmouse="0" contextprojections="0" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1"/>
   </panorama>
@@ -63,7 +63,7 @@
       </sound>
     </media>
     <transition blendtime="1" type="mesh" zoomafterinfov="140" zoomafteroutfov="40" zoomout="0" zoomfov="40" zoomin="7" delay="none" blendcolor="0x000000" zoomoutpause="1" softedge="0" zoomspeed="2" enabled="1"/>
-    <flyintransition enabled="1" speed="3.00"/>
+    <flyintransition enabled="1" speed="2.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control lockedkeyboard="0" hideabout="0" lockedwheel="0" invertcontrol="1" dblclickfullscreen="0" invertwheel="0" zoomcentercursor="1" contextfullscreen="1" rubberband="0" lockedmouse="0" contextprojections="0" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1"/>
   </panorama>
@@ -97,7 +97,7 @@
       </sound>
     </media>
     <transition blendtime="1" type="mesh" zoomafterinfov="140" zoomafteroutfov="40" zoomout="0" zoomfov="40" zoomin="7" delay="none" blendcolor="0x000000" zoomoutpause="1" softedge="0" zoomspeed="2" enabled="1"/>
-    <flyintransition enabled="1" speed="3.00"/>
+    <flyintransition enabled="1" speed="2.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control lockedkeyboard="0" hideabout="0" lockedwheel="0" invertcontrol="1" dblclickfullscreen="0" invertwheel="0" zoomcentercursor="1" contextfullscreen="1" rubberband="0" lockedmouse="0" contextprojections="0" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1"/>
   </panorama>
@@ -128,7 +128,7 @@
       </sound>
     </media>
     <transition blendtime="1" type="mesh" zoomafterinfov="140" zoomafteroutfov="40" zoomout="0" zoomfov="40" zoomin="7" delay="none" blendcolor="0x000000" zoomoutpause="1" softedge="0" zoomspeed="2" enabled="1"/>
-    <flyintransition enabled="1" speed="3.00"/>
+    <flyintransition enabled="1" speed="2.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control lockedkeyboard="0" hideabout="0" lockedwheel="0" invertcontrol="1" dblclickfullscreen="0" invertwheel="0" zoomcentercursor="1" contextfullscreen="1" rubberband="0" lockedmouse="0" contextprojections="0" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1"/>
   </panorama>
@@ -160,7 +160,7 @@
       </sound>
     </media>
     <transition blendtime="1" type="mesh" zoomafterinfov="140" zoomafteroutfov="40" zoomout="0" zoomfov="40" zoomin="7" delay="none" blendcolor="0x000000" zoomoutpause="1" softedge="0" zoomspeed="2" enabled="1"/>
-    <flyintransition enabled="1" speed="3.00"/>
+    <flyintransition enabled="1" speed="2.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control lockedkeyboard="0" hideabout="0" lockedwheel="0" invertcontrol="1" dblclickfullscreen="0" invertwheel="0" zoomcentercursor="1" contextfullscreen="1" rubberband="0" lockedmouse="0" contextprojections="0" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1"/>
   </panorama>
@@ -192,7 +192,7 @@
       </sound>
     </media>
     <transition blendtime="1" type="mesh" zoomafterinfov="140" zoomafteroutfov="40" zoomout="0" zoomfov="40" zoomin="7" delay="none" blendcolor="0x000000" zoomoutpause="1" softedge="0" zoomspeed="2" enabled="1"/>
-    <flyintransition enabled="1" speed="3.00"/>
+    <flyintransition enabled="1" speed="2.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control lockedkeyboard="0" hideabout="0" lockedwheel="0" invertcontrol="1" dblclickfullscreen="0" invertwheel="0" zoomcentercursor="1" contextfullscreen="1" rubberband="0" lockedmouse="0" contextprojections="0" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1"/>
   </panorama>
@@ -224,7 +224,7 @@
       </sound>
     </media>
     <transition blendtime="1" type="mesh" zoomafterinfov="140" zoomafteroutfov="40" zoomout="0" zoomfov="40" zoomin="7" delay="none" blendcolor="0x000000" zoomoutpause="1" softedge="0" zoomspeed="2" enabled="1"/>
-    <flyintransition enabled="1" speed="3.00"/>
+    <flyintransition enabled="1" speed="2.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control lockedkeyboard="0" hideabout="0" lockedwheel="0" invertcontrol="1" dblclickfullscreen="0" invertwheel="0" zoomcentercursor="1" contextfullscreen="1" rubberband="0" lockedmouse="0" contextprojections="0" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1"/>
   </panorama>
@@ -255,7 +255,7 @@
       </sound>
     </media>
     <transition blendtime="1" type="mesh" zoomafterinfov="140" zoomafteroutfov="40" zoomout="0" zoomfov="40" zoomin="7" delay="none" blendcolor="0x000000" zoomoutpause="1" softedge="0" zoomspeed="2" enabled="1"/>
-    <flyintransition enabled="1" speed="3.00"/>
+    <flyintransition enabled="1" speed="2.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control lockedkeyboard="0" hideabout="0" lockedwheel="0" invertcontrol="1" dblclickfullscreen="0" invertwheel="0" zoomcentercursor="1" contextfullscreen="1" rubberband="0" lockedmouse="0" contextprojections="0" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1"/>
   </panorama>
@@ -287,7 +287,7 @@
       </sound>
     </media>
     <transition blendtime="1" type="mesh" zoomafterinfov="140" zoomafteroutfov="40" zoomout="0" zoomfov="40" zoomin="7" delay="none" blendcolor="0x000000" zoomoutpause="1" softedge="0" zoomspeed="2" enabled="1"/>
-    <flyintransition enabled="1" speed="3.00"/>
+    <flyintransition enabled="1" speed="2.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control lockedkeyboard="0" hideabout="0" lockedwheel="0" invertcontrol="1" dblclickfullscreen="0" invertwheel="0" zoomcentercursor="1" contextfullscreen="1" rubberband="0" lockedmouse="0" contextprojections="0" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1"/>
   </panorama>
@@ -320,7 +320,7 @@
       </sound>
     </media>
     <transition blendtime="1" type="mesh" zoomafterinfov="140" zoomafteroutfov="40" zoomout="0" zoomfov="40" zoomin="7" delay="none" blendcolor="0x000000" zoomoutpause="1" softedge="0" zoomspeed="2" enabled="1"/>
-    <flyintransition enabled="1" speed="3.00"/>
+    <flyintransition enabled="1" speed="2.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control lockedkeyboard="0" hideabout="0" lockedwheel="0" invertcontrol="1" dblclickfullscreen="0" invertwheel="0" zoomcentercursor="1" contextfullscreen="1" rubberband="0" lockedmouse="0" contextprojections="0" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1"/>
   </panorama>
@@ -351,7 +351,7 @@
       </sound>
     </media>
     <transition blendtime="1" type="mesh" zoomafterinfov="140" zoomafteroutfov="40" zoomout="0" zoomfov="40" zoomin="7" delay="none" blendcolor="0x000000" zoomoutpause="1" softedge="0" zoomspeed="2" enabled="1"/>
-    <flyintransition enabled="1" speed="3.00"/>
+    <flyintransition enabled="1" speed="2.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control lockedkeyboard="0" hideabout="0" lockedwheel="0" invertcontrol="1" dblclickfullscreen="0" invertwheel="0" zoomcentercursor="1" contextfullscreen="1" rubberband="0" lockedmouse="0" contextprojections="0" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1"/>
   </panorama>
@@ -382,7 +382,7 @@
       </sound>
     </media>
     <transition blendtime="1" type="mesh" zoomafterinfov="140" zoomafteroutfov="40" zoomout="0" zoomfov="40" zoomin="7" delay="none" blendcolor="0x000000" zoomoutpause="1" softedge="0" zoomspeed="2" enabled="1"/>
-    <flyintransition enabled="1" speed="3.00"/>
+    <flyintransition enabled="1" speed="2.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control lockedkeyboard="0" hideabout="0" lockedwheel="0" invertcontrol="1" dblclickfullscreen="0" invertwheel="0" zoomcentercursor="1" contextfullscreen="1" rubberband="0" lockedmouse="0" contextprojections="0" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1"/>
   </panorama>
