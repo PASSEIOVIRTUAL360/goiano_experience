@@ -11,7 +11,7 @@
     </input>
     <view pannorth="407.189" fovmode="2">
       <start fov="120" tilt="-2.21" projection="4" pan="-2.16"/>
-      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="12" pan="0"/>
       <min fovpixel="2" tilt="-90" pan="0"/>
       <max fov="140" tilt="90" fovstereographic="330" pan="360" fovfisheye="360" scaletofit="1"/>
     </view>
@@ -25,7 +25,7 @@
       <sound mode="0" startmutedmobile="0" nodechangekeep="1" tiltsize="10.000" pansize="10.000" tilt="-1.000" id="_background" level="1.000" pan="-1.000" ambientlevel="0.000" loop="6" field="90.000">
         <source mono="1" url="media/fundooooo.mp3"/>
       </sound>
-      <lensflare color="0xffffff" alpha="80.000" tilt="51.910" id="Lensflare01" blinding="50.000" pan="-329.700" type="2"/>
+      <lensflare color="0xffffff" alpha="80.000" tilt="55.780" id="Lensflare01" blinding="50.000" pan="-328.750" type="2"/>
     </media>
     <transition zoomafteroutfov="40" zoomfov="40" delay="none" zoomin="7" zoomout="0" softedge="0" blendcolor="0x000000" zoomspeed="2" zoomafterinfov="140" enabled="1" blendtime="1" zoomoutpause="1" type="mesh"/>
     <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
@@ -54,7 +54,7 @@
       <hotspot description="" distance="3.47646" url="{node3}" tilt="0" id="Point02" title="Goiano Experience Restaurante em Ilha solteira" skinid="ht_node" pan="422.525" target="$fwd"/>
     </hotspots>
     <media>
-      <image popbackmode="0" fov="30.000" clickmode="0" stretch="1.000" roty="0.000" hidepinned="0" tilt="-11.490" popoutscaling="100" id="Element01" handcursor="0" rotx="0.000" pan="-346.660" width="270" rotz="0.000" height="480">
+      <image popbackmode="0" fov="30.000" clickmode="0" stretch="1.000" roty="0.000" hidepinned="0" tilt="-7.700" popoutscaling="100" id="Element01" handcursor="0" rotx="0.000" pan="-317.800" width="270" rotz="0.000" height="480">
         <source url="media/cerveja.gif"/>
       </image>
       <sound mode="0" startmutedmobile="0" nodechangekeep="1" tiltsize="10.000" pansize="10.000" tilt="-1.000" id="_background" level="1.000" pan="-1.000" ambientlevel="0.000" loop="6" field="90.000">
